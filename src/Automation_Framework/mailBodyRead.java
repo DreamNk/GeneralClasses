@@ -125,7 +125,6 @@ public class mailBodyRead {
 	} 
 
 	public static void main(String[] args) throws IOException{
-
 		mailBodyRead sample = new mailBodyRead();
 		sample.readMails();
 	}

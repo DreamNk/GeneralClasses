@@ -25,7 +25,7 @@ public class CahrOccouranceInstring {
 	  
 	                charCountMap.put(c, 1);        // If char is not present in charCountMap, putting this char to charCountMap with 1 as it's value 
 	            } 
-	         //   System.out.println(inputString+" : "+charCountMap);
+	        
 	        } 
 	        System.out.println(inputString+" : "+charCountMap);
 	  
